@@ -17,9 +17,15 @@
 
 #card-showing{
   margin: 20px 100px;
+  display: none;
 }
 
 #card2-showing{
+  margin: 20px 100px;
+  display: none;
+}
+
+#card2-hidden{
   margin: 20px 100px;
 }
 
@@ -27,8 +33,10 @@
   width: 200px;
   margin: 20px 100px;
 }
-
-
+#card2 {
+  width: 200px;
+  margin: 20px 100px;
+}
 
 
 
