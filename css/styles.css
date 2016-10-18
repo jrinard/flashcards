@@ -1,0 +1,67 @@
+*{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 2%;
+}
+
+.btn{
+  color: cyan;
+  background: black;
+  font-size: 1.5em;
+  border: solid thin cyan;
+
+}
+
+#box {
+  width: 400px;
+}
+
+#card-showing{
+  margin: 20px 100px;
+}
+
+#card2-showing{
+  margin: 20px 100px;
+}
+
+#card {
+  width: 200px;
+  margin: 20px 100px;
+}
+
+
+
+
+
+
+
+
+
+/*img {
+  display: none;
+  width: 500px;
+}
+
+#manatee-showing {
+  display: none;
+}
+
+.supermanatee-showing {
+  display: none;
+}
+
+.content-showing {
+  display: none;
+}
+
+.clickable1, .clickable2, .clickable3 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+h5 {
+  display: none;
+}*/
